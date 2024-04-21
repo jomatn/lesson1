@@ -22,11 +22,6 @@ public class Main {
                     System.out.println("Stay at home");
                 }
 
-                if (numberOfStudents < 10) { // true
-                    System.out.println("Go to Cafe");
-                } else {
-                    System.out.println("Go to school");
-                }
 
                 // temperature = -5;
                 if (temperature > 30) {
